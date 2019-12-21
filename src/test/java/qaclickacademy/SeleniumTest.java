@@ -21,5 +21,15 @@ public class SeleniumTest {
 		System.out.println("BrowserAutomation");
 		
 	}
+	
+	@Test
+	public void Elementary()
+	{
+		System.out.println("B");
+		System.out.println("BrowserA");
+		System.out.println("BrowserA");
+		System.out.println("BrowserA");
+		
+	}
 
 }

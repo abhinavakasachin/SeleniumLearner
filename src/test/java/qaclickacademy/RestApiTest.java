@@ -23,4 +23,12 @@ public class RestApiTest {
 		System.out.println("AddTwitter");
 		
 	}
+	@Test
+	public void LoginTwitter()
+	{
+		System.out.println("DeleteTwitter");
+		System.out.println("UpdateTwitter");
+		System.out.println("AddTwitter");
+		
+	}
 }
