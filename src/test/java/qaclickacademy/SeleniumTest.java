@@ -16,6 +16,10 @@ public class SeleniumTest {
 	public void Elements()
 	{
 		System.out.println("A");
+		System.out.println("BrowserAutomation");
+		System.out.println("BrowserAutomation");
+		System.out.println("BrowserAutomation");
+		
 	}
 
 }
